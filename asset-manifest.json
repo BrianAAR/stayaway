@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stayaway/static/css/main.5ffbdee4.css",
+    "main.js": "/stayaway/static/js/main.f785b408.js",
+    "index.html": "/stayaway/index.html",
+    "main.5ffbdee4.css.map": "/stayaway/static/css/main.5ffbdee4.css.map",
+    "main.f785b408.js.map": "/stayaway/static/js/main.f785b408.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ffbdee4.css",
+    "static/js/main.f785b408.js"
+  ]
+}
