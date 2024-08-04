@@ -1,0 +1,47 @@
+.app {
+  text-align: center;
+}
+
+.app-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  width: 100%;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+.app-title {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+.search-bar-container {
+  flex-grow: 1;
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 50px;
+}
+
+.date-range-picker-container {
+  margin-top: 70px; /* Asegúrate de que haya suficiente espacio debajo del header */
+  display: flex;
+  justify-content: center;
+}
+
+.login-circle {
+  width: 40px;
+  height: 40px;
+  background-color: #ccc;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}

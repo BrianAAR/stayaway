@@ -1,0 +1,31 @@
+/* FeaturedProperties.css */
+.featured-properties {
+    padding: 20px;
+  }
+  
+  .properties-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .property-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    width: calc(33.333% - 20px);
+  }
+  
+  .property-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .property-card h3 {
+    margin: 10px 0;
+  }
+  
+  .property-card p {
+    margin: 5px 0;
+  }
+  

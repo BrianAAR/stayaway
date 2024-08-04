@@ -1,0 +1,30 @@
+.experiences {
+    padding: 20px;
+  }
+  
+  .experience-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .experience-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    width: calc(33.333% - 20px);
+  }
+  
+  .experience-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .experience-card h3 {
+    margin: 10px 0;
+  }
+  
+  .experience-card p {
+    margin: 5px 0;
+  }
+  

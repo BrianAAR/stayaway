@@ -1,0 +1,11 @@
+.user-button {
+    width: 40px;
+    height: 40px;
+    background-color: #888; /* Cambiar a un tono de gris más claro */
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
